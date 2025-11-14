@@ -7,4 +7,4 @@
 1. นายนวพล มะณีกัน CSS46541N CSS465415241004
 2. นายวศิน หาสาสห์ศรี CSS46541N CSS465415241014
 
-ลิงค์ไฟล์ https://drive.google.com/drive/folders/1JkrtYcLNuz17hiT5NzQXylMfE8HphRp1?usp=sharing
+ลิงค์ไฟล์(Unity Editor(2022.3.59f1) / Game) https://drive.google.com/drive/folders/1JkrtYcLNuz17hiT5NzQXylMfE8HphRp1?usp=sharing
